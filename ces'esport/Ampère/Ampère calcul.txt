@@ -1,0 +1,7 @@
+On sait qu’on à 630 A à disposition
+
+Pour calculer l’intensité des switch on va utiliser la formule
+A=P/V
+
+Avec P= la puissance en W
+Et V= la tension en V
