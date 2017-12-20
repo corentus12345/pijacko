@@ -1,14 +1,14 @@
 On sait qu’on à 630 A à disposition
 
 Pour calculer l’intensité des switch on va utiliser la formule
-A=P/V
+A=P/V 
 
 Avec P= la puissance en W
 Et V= la tension en V
 
 Les switch que l’on utilise utilise 30 W par port sachant qu’on utilise au total 10 switch de 52 port 2 switch de 5 port et 1 switch de 16
 
-A=30/220=0,14
+A=30/220=0,14 A
 
 Après on multiplie le résultat par le nombre de switch et puis leur port
 
