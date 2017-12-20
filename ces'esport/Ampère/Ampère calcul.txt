@@ -1,0 +1,40 @@
+On sait qu’on à 630 A à disposition
+
+Pour calculer l’intensité des switch on va utiliser la formule
+A=P/V 
+
+Avec P= la puissance en W
+Et V= la tension en V
+
+Les switch que l’on utilise utilise 30 W par port sachant qu’on utilise au total 10 switch de 52 port 2 switch de 5 port et 1 switch de 16
+
+A=30/220=0,14 A
+
+Après on multiplie le résultat par le nombre de switch et puis leur port
+
+0,14x10x52=71 A
+0,14x2x5= 1.5 A
+0,15x16= 2.4 A
+
+Puis on additionne le tout pour connaitre l’intensité nécéssaire pour tout les switch
+
+A= 74,9A
+
+Si on ajoute à cela 5 A l’énergie qu’utilisera l’écran on aura 79,9 A d’utiliser
+
+On prévoit 50 A pour l’éclairage de la salle.
+On passe donc à 129,9 A utiliser pour toute la salle
+
+On donnera 5 A à chaque stand pour la lumière et leur installation ainsi que 10 A pour la scène pour alimenté tout les joueur et les éclairages.
+Ce qui fait 160 A dépenser dans l’éclairage des stands.
+
+Soit 289,9 A dépenser pour tout les stands et outils de connexion
+
+Ils nous reste donc
+630-289,9= 340,1 A
+À redistribuer entre les 47 Groupe de bureau présent.
+
+Donc on donne 
+340,1/47= 7 A par groupe de bureau
+
+Ils nous reste donc un surplus de 9.4 pour les problèmes ou si on a besoin de brancher d’autre ordi.
